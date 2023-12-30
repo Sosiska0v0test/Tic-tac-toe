@@ -1,0 +1,85 @@
+[
+  {
+    "$type": "usualGame",
+    "Rating": 0,
+    "Player1": null,
+    "Player2": null,
+    "Winner": null
+  },
+  {
+    "$type": "trainingGame",
+    "Rating": 0,
+    "Player1": {
+      "$type": "vipAc",
+      "Name": "vip",
+      "Score": 55,
+      "GamesCount": 8,
+      "Wins": 5
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "usual",
+      "Score": 10,
+      "GamesCount": 8,
+      "Wins": 3
+    },
+    "Winner": "vip"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "vipAc",
+      "Name": "vip",
+      "Score": 50,
+      "GamesCount": 2,
+      "Wins": 2
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "usual",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 0
+    },
+    "Winner": "vip"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "vipAc",
+      "Name": "vip",
+      "Score": 50,
+      "GamesCount": 2,
+      "Wins": 2
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "usual",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 0
+    },
+    "Winner": "vip"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "vipAc",
+      "Name": "1",
+      "Score": 30,
+      "GamesCount": 1,
+      "Wins": 1
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "2",
+      "Score": 0,
+      "GamesCount": 1,
+      "Wins": 0
+    },
+    "Winner": "1"
+  }
+]
